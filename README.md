@@ -62,6 +62,7 @@ kagglehub
 이 프로그램은 포켓몬 이미지 데이터셋을 사용합니다.
 
 Kaggle 데이터셋을 다운로드한 뒤, `PokemonData` 폴더를 아래 위치에 넣습니다.
+Kaggle 데이터셋 다운로드: [Kaggle Pokémon Dataset](https://www.kaggle.com/datasets/lantian773030/pokemonclassification?resource=download)
 
 ```text
 data/PokemonData/
