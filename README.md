@@ -125,13 +125,16 @@ python pokemon_gui.py
 
 ![drawing mode](Screenshot/0.png)
 
+
 ### 그림판 입력 기능
 
 그림판 기능을 사용하면 사용자가 직접 검은색 선으로 포켓몬을 그릴 수 있습니다.
 이후 분석 버튼을 누르면 가장 유사한 포켓몬 후보를 Top-5로 출력합니다.
 
 ![drawing mode](Screenshot/1.png)
+
 ![drawing mode](Screenshot/2.png)
+
 ![drawing mode](Screenshot/3.png)
 
 ### 이미지 분석 결과
@@ -141,6 +144,7 @@ python pokemon_gui.py
 <!-- 분석 결과 스크린샷을 아래에 추가하세요 -->
 
 ![drawing mode](Screenshot/4.png)
+
 ![drawing mode](Screenshot/5.png)
 
 ---
